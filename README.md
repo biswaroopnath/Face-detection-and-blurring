@@ -1,6 +1,6 @@
 # Face-detection-and-blurring
 ```
-This is a simple python project fro face detection and blurring.
+This is a simple python project for face detection and blurring.
 ```
 # Installation
 1.Install the requirements.
